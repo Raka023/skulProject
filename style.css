@@ -9,11 +9,14 @@ body {
     box-sizing: border-box;
 }
 
-.main {
-    background-image: ;
-}
+/* .background {
+    background: url(background.jpg);
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+} */
 
-.main-container {
+.landing-container {
     height: 100vh;
     width: 100%;
 } 
@@ -26,5 +29,11 @@ body {
 }
 
 .desc {
-    max-width: 50%;
+    max-width: 40%;
+    min-width: 25%;
+}
+
+.description-container {
+    height: 100vh;
+    width: 100%;
 }
