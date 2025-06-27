@@ -1,3 +1,3 @@
 # skulProject
 
-idk, just a repository for a school project task :D
+idk, just a repository for a school task :D
